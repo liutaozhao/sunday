@@ -1,0 +1,29 @@
+commit 545b59b488fa48de74d3b9aec6e735d1fdf21fb0
+Author: liutaozhao <676495962@qq.com>
+Date:   Sun Apr 7 12:17:14 2019 +0800
+
+    fix some error when inset data to device table or  user table.
+
+commit 769a34c3e8086cc19fee72f4a579259facb79b66
+Author: liutaozhao <676495962@qq.com>
+Date:   Fri Mar 22 11:02:41 2019 +0800
+
+    fix log info for user
+
+commit b23b66aa11c542964dea32f36e59e8feb084afe4
+Author: liutaozhao <676495962@qq.com>
+Date:   Tue Jan 8 19:04:48 2019 +0800
+
+    self encrty
+
+commit d9214192638fe2e1cc9ce94c5b21bf5f6a2ac208
+Author: liutaozhao <676495962@qq.com>
+Date:   Tue Jan 8 15:25:40 2019 +0800
+
+    fix some error for server.cpp and disable ssl
+
+commit aece68eeeadcaf92b5010b5e39cc11f72c61cadd
+Author: liutaozhao <676495962@qq.com>
+Date:   Mon Jan 7 08:32:47 2019 +0800
+
+    First commit
